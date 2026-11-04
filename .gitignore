@@ -1,0 +1,27 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.sqbpro
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+
+*.db-journal
+*.db-wal
+*.db-shm
+
