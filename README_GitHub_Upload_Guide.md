@@ -317,3 +317,10 @@ GitHub akan menerima commit terbaru dari branch yang sedang terhubung.
 **Version Control:** Git & GitHub
 
 *Dokumen panduan upload project ke GitHub --- Gunawan Brothers.*
+
+update Aplikasi :
+git add .
+git commit -m "Update Inventory Module"
+git push
+
+
